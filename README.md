@@ -19,9 +19,9 @@
 <form>
   <p>2.     True or False: 7&lt;4</p>
     <input tyoe="radio" name="2." value="True">
-  True<br/>
+  <br/>
   <input tyoe="radio" name="2." value="False">
-  False<br/>
+  <br/>
 </form>
 
 <form>
@@ -35,3 +35,16 @@
     <input type="radio" name="3." value="2">
     2
 </form>
+
+<form>
+    4. Word Problem- Hazel has 2 baskets of toys. She has 5 toys in each basket . How many toys does she have?
+    <textarea rows="5" cols="60"></textarea>
+</form>
+
+<!--End of quiz-->
+
+<form>
+    Submit<br />
+<input type="submit">
+</form>
+
